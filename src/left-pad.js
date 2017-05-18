@@ -1,5 +1,5 @@
 import {repeat} from 'lodash/string';
 
-export function leftPad(str, length, ch) {
-  return repeat(ch, length) + str;
+export function leftPad(str, len, ch) {
+  return repeat(ch, len) + str;
 }

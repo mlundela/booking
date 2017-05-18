@@ -5,7 +5,7 @@ module.exports = {
   entry: {
     'left-pad': [
       'babel-polyfill',
-      './src/left-pad.js',
+      './src/left-pad.lambda.js',
     ]
   },
   module: {
