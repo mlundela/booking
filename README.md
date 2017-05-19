@@ -4,9 +4,7 @@ Left-pad as a service - An AWS Lambda function template
 
 ## Deploy it with apex
 
-Install [apex](http://apex.run/#installation)
-
-    curl https://raw.githubusercontent.com/apex/apex/master/install.sh | sh
+Install [apex](http://apex.run/#installation) and configure [AWS Credentials](http://apex.run/#aws-credentials).
     
 Create apex project
 
